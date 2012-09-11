@@ -1,0 +1,16 @@
+{
+  "author": "Mark Wallace <mark@emotive.com>",
+  "name": "genericproxy",
+  "description": "Basic framework of a proxy for Emotive MMS",
+  "version": "1.0.3",
+  "homepage": "http://www.emotive.com",
+  "dependencies": {
+      "portfinder":"0.2.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license" : "MIT/X11",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
