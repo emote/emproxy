@@ -2,10 +2,11 @@
   "author": "Mark Wallace <mark@emotive.com>",
   "name": "emproxy",
   "description": "Basic framework of a proxy for Emotive MMS",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "http://www.emotive.com",
   "dependencies": {
-      "portfinder":"0.2.1"
+      "portfinder":"0.2.1",
+      "emutils"   :"~1.0.5"
   },
   "devDependencies": {},
   "optionalDependencies": {},
